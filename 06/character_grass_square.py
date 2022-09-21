@@ -7,6 +7,7 @@ character = load_image('character.png')
 
 x = 10
 y = 90
+
 while(1):
     clear_canvas_now()
     grass.draw_now(400,30)
